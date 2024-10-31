@@ -5,7 +5,7 @@ Abaixo, apresentamos a foto do projeto na *protoboard*:
 <div align="center">
 
 <sub>Figura 01 - Projeto semáforo *offline*</sub>
-<img src="../assets/topico_3/IMG_1285.jpg">
+<img src="assets/IMG_1285.jpg">
 
 <sub>Fonte: Material produzido pelos autores (2024)</sub>
 </div>
